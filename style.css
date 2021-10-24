@@ -1,0 +1,31 @@
+body {
+    background-color: #003a3f;
+    padding:0;
+    margin:0; 
+    
+}
+
+input[type="file"] {
+    display:none;
+  
+}
+
+label {
+
+    color:#fff;
+    height:60px;
+    width:250px;
+    background-color:#099ff5;
+    position: absolute;
+    margin:auto;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    font-size: 20px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
